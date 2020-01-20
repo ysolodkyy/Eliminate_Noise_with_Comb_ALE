@@ -4,6 +4,7 @@ I attempted to eliminate the harmonic tone and white background noise in this re
 
 See the PDF "Using Comb Filter and Adaptive Line Enhancer to Enhance the Audio Quality of a Recording" for detailed description.
 
+intermediate output: COMB_output_fo=134.8_bw =.97_best.mp4
+
 final output: y(n)_ALE_output_M=64_mu=0.000010_L=3.m4a
 
-intermediate output: 
