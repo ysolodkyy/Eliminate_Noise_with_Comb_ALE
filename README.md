@@ -1,7 +1,7 @@
 # Eliminate Noise with comb filter and Adaptive Line Enhancer
 I attempted to eliminate the harmonic tone and white background noise in this recording (https://youtu.be/PB_8iOCm92c) with a combination of comb filter and adaptive line enhancer (ALE).
 
-See the PDF "Using Comb Filter and Adaptive Line Enhancer to Enhance the Audio Quality of a Recording" for detailed description.
+See the PDF "Eliminating Power Line Tone and Background Noise from an Audio Using Comb Filter and Adaptive Line Enhancer" for detailed description.
 
 input: mbt_70_experimental_us_army_1970_360p.mp4
 
