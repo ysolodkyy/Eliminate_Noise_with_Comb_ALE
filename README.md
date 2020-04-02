@@ -7,5 +7,4 @@ input: mbt_70_experimental_us_army_1970_360p.mp4
 
 intermediate output: COMB_output_fo=134.8_bw =.97_best.mp4
 
-final output: y(n)_ALE_output_M=64_mu=0.000010_L=3.m4a
-
+final output: y(n)_ALE_output_M=64_mu=0.000010_L=3.m4a ( for download issues try y(n)_ALE_output_M=64_mu=0.000010_L=3.mp4) 
